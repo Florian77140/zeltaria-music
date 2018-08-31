@@ -1,0 +1,12 @@
+{
+  "name": "Zeltaria-Music",
+  "version": "1.0.0"
+  "description": "",
+  "main": "index.js",
+  "scripts":
+  "author": "Florian Hery (Floflo02)",
+  "licence": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
